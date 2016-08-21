@@ -1,0 +1,19 @@
+{
+  "name": "animalchelu",
+  "version": "1.0.0",
+  "description": "Learn Chamorro with atani",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjdesigns/animalchelu.git"
+  },
+  "author": "kjdesigns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjdesigns/animalchelu/issues"
+  },
+  "homepage": "https://github.com/kjdesigns/animalchelu#readme"
+}
